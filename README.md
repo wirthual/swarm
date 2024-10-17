@@ -12,6 +12,11 @@ An educational framework exploring ergonomic, lightweight multi-agent orchestrat
 ## Install
 
 Requires Python 3.10+
+```shell
+pip install openai-swarm
+```
+
+or
 
 ```shell
 pip install git+ssh://git@github.com/openai/swarm.git
